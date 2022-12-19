@@ -3,8 +3,8 @@
 
 **Before scaling the data**
 
-*	LogisticRegression Training score: 0.9921240885954051- ,
--	LogisticRegression Test score: 0.9918489475856377- ,
+*	LogisticRegression Training score: 0.9921240885954051
+-	LogisticRegression Test score: 0.9918489475856377
 +	RandomForestClassifier Training score: 0.9975409272252029
 * RandomForestClassifier Test score: 0.9914878250103177
 
